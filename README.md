@@ -1,6 +1,6 @@
 # Tic Tac Toe using AI 
 
-![Screenshot (309)](https://github.com/deepakyerram022/Tic-Tac-Toe-/assets/170975066/70c93057-cc0b-4933-8e55-6c15bc77bbea) 
+![image](https://github.com/deepakyerram022/Tic-Tac-Toe/assets/170975066/6956aa5b-21c2-4045-8424-d220b85db9c8) 
 
 ## Inside this repository!!
 
